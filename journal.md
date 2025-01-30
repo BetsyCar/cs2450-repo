@@ -28,4 +28,35 @@
 ### Name Ideas
         Tinder for Musicians
 
-        OnlyBands , Tuneder , YouTune , NoteBook , NoteCloud , Notify , PlayBook , Chordify , OnlyTones , TrebleGram , BassBook
+        OnlyBands , Tuneder/Toneder , YouTune , NoteBook , NoteCloud , Notify , PlayBook , Chordify , OnlyTones , TrebleGram , BassBook
+
+
+**Date: Jan/30/25** : Sandbox guy is here talking to us; I'm not really interested in making a company or full product, so I
+                    feel like this isn't really for me. Oh well.
+                    Also my anxiety could NEVER. Me oh my, too intense for my poor lil soul.
+                    
+                    User Stories - Start w/ the customer; Plan out customer experience, then build tech around that plan
+                        As a  This kind of person
+                        I want  Something
+                        So that  This can happen
+                    Project Estimation - Are we there yet are we there yet are we there yet are we there yet are we th-
+                        Tension between stakeholders(wants product finished now) and developers(knows that programming needs Time)
+                        We don't always know how long anything will take, but we gotta say something
+                        Number of hours is hard to say, but saying the date can cause others to believe you and have scheduled
+                        things around you
+                        Also if you say too long, you've padded the time
+                        Level of difficulty is the vaguest, so it's most accurate b/c everyone needs a diff amount of time
+
+                    Story Points - 2,3,5,8,13,21 easy -> hard
+                        Measure of effort
+                        Also account for lvl of uncertainty
+                        How much can you do in a day?
+                    Most of the time, work in 2/3 week sprints, which helps us choose which user stories to prioritize
+                    Also, mid level effort consistently is better than occasional high effort
+                    Velocity - points a team can do in a sprint; Takes like 6 sprints to get a decent measure
+                    Burn Down Charts
+
+                    Must, Should, Could, Would - MSCW or 'moscow'
+                    Must and should usually get done, could rarely, would almost never.
+
+                    
