@@ -26,8 +26,6 @@
                     Project Managers, Customers, Architects, Marketing, Branding, Infrastructure
                     
 ### Name Ideas
-        Tinder for Musicians
-
         OnlyBands , Tuneder/Toneder , YouTune , NoteBook , NoteCloud , Notify , PlayBook , Chordify , OnlyTones , TrebleGram , BassBook
 
 
@@ -59,4 +57,44 @@
                     Must, Should, Could, Would - MSCW or 'moscow'
                     Must and should usually get done, could rarely, would almost never.
 
-                    
+**Date: Feb/04/25** :   Business Process
+                        Technological Capability
+                        Design Elements
+                        Customer Needs
+                        And with their powers combined, you get Software Architecture
+
+                        Underlying structure with which everything sticks together
+                        Your system will have an Architecture whether you like it or not, so be intentional about it.
+                        Strange, organic growth will happen if you didn't plan from the get go.
+
+                        People will try to say that x is 99% not going to happen. Unless you're completely certain, expect x to happen.
+                        Also, if it's terrible and old, then it may sadly be too much trouble to overhaul it. So deal with stuff as
+                        soon as possible.
+
+                        Architects add value when they make correct technical decisions, enable communication, drive sound development
+                        practices.
+
+                        Complex, rapidly changing Landscape of Options
+                        Time Pressure
+                        Cost, Company Reqs, Affinity for the familiar, Incumbent Tech
+                        Less that 10% of failed projects state 'wrong tech choice' as reason for failure.
+
+                        There are certain design patterns that occur in real life, that have already been solved
+
+                        Algorithm is a very specific pattern to solve a very specific problem in a very specific domain
+                        Design Pattern is a very general pattern to solve a problem in many domains.
+
+                        Observer Pattern: An object is being observed; change in the object sends a notification to observer
+                            Take damage, status effect, Event handling, policy enforcement, online sales, cart mgt, Media 'algorithm'
+                        Synchronous: concurency, consecutive sequence of events, one thing is waiting with baited breath for orders
+                        Asynchronous: Waiting with not so baited breath. Chaos
+
+                        Model-View-Controller: Almost every UI today
+                        Model is data, the state of the system
+                        View handles UI (both input and output)
+                        Controller receives user info from the view
+
+                        Thread: Subprograms that are running, updating things at the same time; Adds overhead
+
+                        Adapter Pattern: creates a layer that changes formats, styles, or does 'bridging' activities
+                            Enable integration
